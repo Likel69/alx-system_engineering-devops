@@ -1,0 +1,1 @@
+This repository contains 0x00. Shell, Basics project of the ALX System Engineering Devops. in the ALX SE Program
